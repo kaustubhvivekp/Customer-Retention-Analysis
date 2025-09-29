@@ -57,7 +57,7 @@ The analysis leverages **Python (Jupyter Notebook)** for data preparation, explo
 2.	Open retention_analysis.ipynb in Jupyter Lab/Notebook.
 
 3.	Ensure required libraries are installed:
-```bash
+   ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn
 
 4.	Run the notebook sequentially to reproduce results.
